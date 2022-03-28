@@ -1,6 +1,7 @@
 # Snowpack Tailwind
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
+> API : https://platzi-avo.vercel.app/
 
 Ready-to-go template to create awesome websites using Tailwind on top of Snowpack and autopublish to GitHub pages using GitHub Actions.
 
