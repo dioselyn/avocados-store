@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://dioselyn.github.io/avocados-store/',
+    baseUrl: 'https://dioselyn.github.io/avocados-store',
   },
 }
