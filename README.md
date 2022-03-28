@@ -3,6 +3,7 @@
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 API : https://platzi-avo.vercel.app/
+Github Page: https://dioselyn.github.io/avocados-store/
 
 Ready-to-go template to create awesome websites using Tailwind on top of Snowpack and autopublish to GitHub pages using GitHub Actions.
 
